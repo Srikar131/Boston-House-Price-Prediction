@@ -12,8 +12,8 @@ The objective of this project is to build a simple linear regression model to pr
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/Srikar131/Boston-House-Price-Prediction.git
+    cd Boston-House-Price-Prediction
     ```
 2.  **Create and activate a virtual environment and install dependencies:**
     ```bash
